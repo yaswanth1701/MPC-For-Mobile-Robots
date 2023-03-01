@@ -13,7 +13,7 @@
 
 - for prediction horizon size =10
 <img width="418" alt="github1" src="https://user-images.githubusercontent.com/92177410/222218861-bb4d6a44-5407-42f5-9797-8cae66e775d4.png">
-![mobile_robot](https://user-images.githubusercontent.com/92177410/222219921-64becc03-1a0f-4257-8412-b0a7ec6bfeab.gif)
+![mobile_robot](https://user-images.githubusercontent.com/92177410/222220375-fdcbc9f7-a433-4c3d-bed5-0f74bc73c3eb.gif)
 
 ## future works
 - implementing multiple shooting model predictive control.
